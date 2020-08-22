@@ -1,2 +1,2 @@
 # amar-syll-fr
- mon portofolio
+Resume des mes competences 
